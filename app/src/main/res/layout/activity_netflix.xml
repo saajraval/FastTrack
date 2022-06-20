@@ -20,9 +20,9 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
         android:layout_weight="1"
-        android:gravity="center" >
+        android:gravity="center"
+        android:orientation="vertical">
 
         <EditText
             android:id="@+id/edt_email"
@@ -39,6 +39,22 @@
             android:textColorHint="#ffff"
             android:textStyle="bold" />
 
+
+        <EditText
+            android:id="@+id/edt_username"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edt_bg"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="15dp"
+            android:hint="User Name"
+            android:imeOptions="actionNext"
+            android:inputType="textEmailAddress"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textColorHint="#ffff"
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/edt_password"
@@ -60,22 +76,21 @@
             android:id="@+id/tv_reset"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="30dp"
             android:text="Reset Password ?"
             android:textColor="#fff"
-            android:textSize="20sp"
-            android:layout_gravity="right"
-            android:layout_marginTop="30dp"/>
-
+            android:textSize="20sp" />
 
 
         <android.widget.Button
+            android:id="@+id/btn_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/btn_login"
-            android:text="Login"
+            android:layout_marginTop="40dp"
             android:background="@drawable/btn_login"
-            android:textColor="#fff"
-            android:layout_marginTop="40dp"/>
+            android:text="Login"
+            android:textColor="#fff" />
 
     </LinearLayout>
 

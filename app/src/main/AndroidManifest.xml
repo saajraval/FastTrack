@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RedLogin">
         <activity
+            android:name=".netflixNext"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
