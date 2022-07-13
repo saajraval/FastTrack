@@ -10,13 +10,28 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RedLogin">
         <activity
+            android:name=".DateTime"
+            android:exported="false" />
+        <activity
+            android:name=".ActivitySplash"
+            android:exported="false" />
+        <activity
+            android:name=".alertDailogBox"
+            android:exported="false" />
+        <activity
+            android:name=".SeekbarRatingbarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".netflix"
+            android:exported="false" />
+        <activity
             android:name=".netflixNext"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".netflix"
+            android:name=".spinner_dropdown"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

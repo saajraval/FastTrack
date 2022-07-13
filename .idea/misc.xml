@@ -9,9 +9,16 @@
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/drawable/btn_login.xml" value="0.145" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/drawable/edt_bg.xml" value="0.145" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_alert_dailog_box.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_date_time.xml" value="0.18888888888888888" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_netflix.xml" value="0.27447916666666666" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_netflix_next.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_seekbar_ratingbar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_spinner_dropdown.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/raw_custom.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/layout/raw_toast.xml" value="0.2734375" />
         <entry key="..\:/Users/SR7/AndroidStudioProjects/RedLogin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>

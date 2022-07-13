@@ -90,6 +90,27 @@
             android:layout_marginTop="40dp"
             android:background="@drawable/btn_login"
             android:text="Login"
+            android:textAllCaps="false"
+            android:textColor="#fff" />
+
+        <android.widget.Button
+            android:id="@+id/btn_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btn_login"
+            android:text="Send"
+            android:textAllCaps="false"
+            android:textColor="#fff" />
+
+        <android.widget.Button
+            android:id="@+id/btn_wpcode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btn_login"
+            android:text="Send to whatsapp"
+            android:textAllCaps="false"
             android:textColor="#fff" />
 
     </LinearLayout>
